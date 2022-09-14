@@ -1,8 +1,10 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
 type Data = {
+  from: string;
+  id: string;
   message: string;
-  conversation: string;
+  timestamp: string;
 };
 
 const ENDPOINT = 'https://www.botlibre.com/rest/json/chat';
@@ -12,10 +14,6 @@ export default async function handler(
   res: NextApiResponse<Data>
 ) {
   const { message } = req.body;
-
-  if (req.method !== 'POST') {
-    res.status(400).end('Bad request');
-  }
 
   const result = await fetch(ENDPOINT, {
     method: 'POST',
@@ -33,7 +31,9 @@ export default async function handler(
   const data = await result.json();
 
   return res.status(200).json({
+    from: 'webguyian',
+    id: data.conversation,
     message: data.message,
-    conversation: data.conversation
+    timestamp: new Date().toISOString()
   });
 }
