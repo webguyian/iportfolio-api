@@ -15,14 +15,18 @@ export async function middleware(request: NextRequest) {
     const [_, token] = authHeader.split('Bearer ');
 
     if (!token) {
-      return NextResponse.rewrite(new URL('/api/error', request.url));
+      return NextResponse.rewrite(
+        new URL('/api/error/unauthorized', request.url)
+      );
     }
 
     try {
       await jwtVerify(token, new TextEncoder().encode(TOKEN_KEY));
       return response;
     } catch (err) {
-      return NextResponse.rewrite(new URL('/api/error', request.url));
+      return NextResponse.rewrite(
+        new URL('/api/error/unauthorized', request.url)
+      );
     }
   }
 

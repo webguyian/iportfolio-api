@@ -8,5 +8,5 @@ export default function handler(
   _req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  res.status(401).json({ error: 'Request failed' });
+  res.status(401).json({ error: 'Unauthorized' });
 }
