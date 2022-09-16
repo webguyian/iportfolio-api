@@ -7,10 +7,7 @@ const TOKEN_KEY = process.env.TOKEN_KEY!;
 export async function middleware(request: NextRequest) {
   const response = NextResponse.next();
 
-  if (
-    request.method !== 'OPTIONS' &&
-    request.nextUrl.pathname !== '/api/auth/token'
-  ) {
+  if (request.method !== 'OPTIONS') {
     const authHeader = request.headers.get('Authorization') || '';
     const [_, token] = authHeader.split('Bearer ');
 
@@ -34,5 +31,12 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: '/api/:path*'
+  matcher: [
+    '/api/location/:path*',
+    '/api/stocks/:path*',
+    '/api/weather/:path*',
+    '/api/chat',
+    '/api/music',
+    '/api/unlock'
+  ]
 };
