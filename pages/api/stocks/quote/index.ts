@@ -8,7 +8,7 @@ export default async function handler(
   res: NextApiResponse
 ) {
   if (req.method === 'OPTIONS') {
-    res.status(202).end();
+    return res.status(202).end();
   }
 
   const { symbols } = req.body;
