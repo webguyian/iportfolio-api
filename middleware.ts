@@ -6,6 +6,16 @@ const TOKEN_KEY = process.env.TOKEN_KEY!;
 
 export async function middleware(request: NextRequest) {
   const response = NextResponse.next();
+  const origin = request.headers.get('Origin') || '*';
+  const allowedOrigins = [
+    'https://webguyian.com',
+    'https://iportfolio-vue.vercel.app',
+    'http://localhost:8000'
+  ];
+
+  if (allowedOrigins.includes(origin)) {
+    response.headers.set('Access-Control-Allow-Origin', origin);
+  }
 
   if (request.method !== 'OPTIONS') {
     const authHeader = request.headers.get('Authorization') || '';
@@ -36,6 +46,7 @@ export const config = {
     '/api/stocks/:path*',
     '/api/weather/:path*',
     '/api/chat',
+    '/api/mail',
     '/api/music',
     '/api/unlock'
   ]
