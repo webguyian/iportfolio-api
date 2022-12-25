@@ -1,0 +1,1127 @@
+{
+  "meta": {
+    "returnedCount": 13,
+    "totalCount": 1000
+  },
+  "tracks": [
+    {
+      "albumId": "alb.426965133",
+      "albumName": "Please Excuse Me For Being Antisocial",
+      "artistId": "art.286749238",
+      "artistName": "Roddy Ricch",
+      "blurbs": [],
+      "contributors": {
+        "primaryArtist": "art.286749238"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.426965135",
+      "id": "tra.426965135",
+      "index": 2,
+      "isAvailableInHiRes": false,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isrc": "USAT21906978",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.426965133",
+          "ids": ["alb.426965133"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.286749238",
+          "ids": ["art.286749238"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.146,g.383",
+          "ids": ["g.146", "g.383"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196515,tag.152196578",
+          "ids": ["tag.152196515", "tag.152196578"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "The Box",
+      "playbackSeconds": 196,
+      "previewURL": "https://listen.hs.llnwd.net/g3/7/3/0/6/2/1724126037.mp3",
+      "shortcut": "roddy-ricch/please-excuse-me-for-being-antisocial/the-box",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.364895046",
+      "albumName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "artistId": "art.214281475",
+      "artistName": "Billie Eilish",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.186781446",
+        "engineer": "art.33131193",
+        "primaryArtist": "art.214281475",
+        "producer": "art.186781446",
+        "remixer": "art.33131193"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.364895047",
+      "id": "tra.364895047",
+      "index": 1,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "USUM71900763",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.364895046",
+          "ids": ["alb.364895046"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.214281475",
+          "ids": ["art.214281475"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.186781446",
+          "ids": ["art.186781446"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.218,g.71,g.33",
+          "ids": ["g.218", "g.71", "g.33"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196506,tag.152196543,tag.152196505",
+          "ids": ["tag.152196506", "tag.152196543", "tag.152196505"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "!!!!!!!",
+      "playbackSeconds": 13,
+      "previewURL": "https://listen.hs.llnwd.net/g3/0/8/8/1/7/1496171880.mp3",
+      "shortcut": "billie-eilish/when-we-all-fall-asleep-where-do-we-go/t.364895047",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.426965133",
+      "albumName": "Please Excuse Me For Being Antisocial",
+      "artistId": "art.286749238",
+      "artistName": "Roddy Ricch",
+      "blurbs": [],
+      "contributors": {
+        "primaryArtist": "art.286749238"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.426965143",
+      "id": "tra.426965143",
+      "index": 10,
+      "isAvailableInHiRes": false,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isrc": "USAT21907158",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.426965133",
+          "ids": ["alb.426965133"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.286749238",
+          "ids": ["art.286749238"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.146,g.383",
+          "ids": ["g.146", "g.383"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196515,tag.152196578",
+          "ids": ["tag.152196515", "tag.152196578"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Elyse's Skit",
+      "playbackSeconds": 23,
+      "previewURL": "https://listen.hs.llnwd.net/g3/1/6/5/5/1/1724115561.mp3",
+      "shortcut": "roddy-ricch/please-excuse-me-for-being-antisocial/elyses-skit",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.459083337",
+      "albumName": "SOUTHSIDE",
+      "artistId": "art.23694854",
+      "artistName": "Sam Hunt",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.49846",
+        "engineer": "art.30268647",
+        "featuredPerformer": "art.6662203",
+        "guestMusician": "art.6662203",
+        "primaryArtist": "art.23694854",
+        "producer": "art.263796700",
+        "remixer": "art.263796700"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.459083355",
+      "id": "tra.459083355",
+      "index": 5,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "USUM71700575",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.459083337",
+          "ids": ["alb.459083337"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.23694854",
+          "ids": ["art.23694854"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.49846",
+          "ids": ["art.49846"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.261,g.161,g.407,g.156,g.115",
+          "ids": ["g.261", "g.161", "g.407", "g.156", "g.115"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196534,tag.152196531,tag.152196495",
+          "ids": ["tag.152196534", "tag.152196531", "tag.152196495"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Body Like A Back Road",
+      "playbackSeconds": 162,
+      "previewURL": "https://listen.hs.llnwd.net/g3/2/3/9/8/9/2069498932.mp3",
+      "shortcut": "sam-hunt/southside-mca-nashville/body-like-a-back-road",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.404757753",
+      "albumName": "Hollywood's Bleeding",
+      "artistId": "art.177922095",
+      "artistName": "Post Malone",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.21341084",
+        "engineer": "art.28497071",
+        "featuredPerformer": "art.38927845",
+        "primaryArtist": "art.177922095",
+        "producer": "art.38927845",
+        "remixer": "art.28497071"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.404757770",
+      "id": "tra.404757770",
+      "index": 17,
+      "isAvailableInHiRes": false,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isrc": "USUM71822626",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.404757753",
+          "ids": ["alb.404757753"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.177922095",
+          "ids": ["art.177922095"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.21341084",
+          "ids": ["art.21341084"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.146",
+          "ids": ["g.146"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196515",
+          "ids": ["tag.152196515"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Wow.",
+      "playbackSeconds": 149,
+      "previewURL": "https://listen.hs.llnwd.net/g3/4/7/8/7/9/1544997874.mp3",
+      "shortcut": "post-malone/hollywoods-bleeding-explicit/wow",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.245806615",
+      "albumName": "Stoney (Deluxe)",
+      "artistId": "art.177922095",
+      "artistName": "Post Malone",
+      "blurbs": [],
+      "contributors": {
+        "primaryArtist": "art.177922095"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.245806622",
+      "id": "tra.245806622",
+      "index": 7,
+      "isAvailableInHiRes": false,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isrc": "USUM71614475",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.245806615",
+          "ids": ["alb.245806615"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.177922095",
+          "ids": ["art.177922095"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.146",
+          "ids": ["g.146"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196515",
+          "ids": ["tag.152196515"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "I Fall Apart",
+      "playbackSeconds": 223,
+      "previewURL": "https://listen.hs.llnwd.net/g3/5/2/4/4/8/2070184425.mp3",
+      "shortcut": "post-malone/stoney-deluxe/i-fall-apart",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.396711596",
+      "albumName": "Dance Monkey",
+      "artistId": "art.352193935",
+      "artistName": "Tones and I",
+      "blurbs": [],
+      "contributors": {
+        "primaryArtist": "art.352193935"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.396711597",
+      "id": "tra.396711597",
+      "index": 1,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "QZES71982312",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.396711596",
+          "ids": ["alb.396711596"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.352193935",
+          "ids": ["art.352193935"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.204,g.115,g.33,g.135,g.71",
+          "ids": ["g.204", "g.115", "g.33", "g.135", "g.71"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196510,tag.152196495,tag.152196505,tag.152196546,tag.152196543",
+          "ids": [
+            "tag.152196510",
+            "tag.152196495",
+            "tag.152196505",
+            "tag.152196546",
+            "tag.152196543"
+          ]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Dance Monkey",
+      "playbackSeconds": 209,
+      "previewURL": "https://listen.hs.llnwd.net/g3/9/1/0/8/1/1536018019.mp3",
+      "shortcut": "tones-and-i/dance-monkey-single/dance-monkey",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.314832302",
+      "albumName": "This One's for You Too (Deluxe Edition)",
+      "artistId": "art.137815008",
+      "artistName": "Luke Combs",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.137815008",
+        "featuredPerformer": "art.137815008",
+        "guestMusician": "art.23913",
+        "guestVocals": "art.137815008",
+        "primaryArtist": "art.137815008",
+        "producer": "art.263136896"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.314832319",
+      "id": "tra.314832319",
+      "index": 15,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "US6XF1700259",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.314832302",
+          "ids": ["alb.314832302"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.137815008",
+          "ids": ["art.137815008"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.137815008",
+          "ids": ["art.137815008"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.407,g.131",
+          "ids": ["g.407", "g.131"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196531,tag.152196535",
+          "ids": ["tag.152196531", "tag.152196535"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Beautiful Crazy",
+      "playbackSeconds": 193,
+      "previewURL": "https://listen.hs.llnwd.net/g3/5/6/2/9/6/1413269265.mp3",
+      "shortcut": "luke-combs/this-ones-for-you-too-deluxe-edition/beautiful-crazy",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.364895046",
+      "albumName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "artistId": "art.214281475",
+      "artistName": "Billie Eilish",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.186781446",
+        "engineer": "art.33131193",
+        "primaryArtist": "art.214281475",
+        "producer": "art.186781446",
+        "remixer": "art.33131193"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.364895048",
+      "id": "tra.364895048",
+      "index": 2,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "USUM71900764",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.364895046",
+          "ids": ["alb.364895046"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.214281475",
+          "ids": ["art.214281475"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.186781446",
+          "ids": ["art.186781446"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.218,g.71,g.33",
+          "ids": ["g.218", "g.71", "g.33"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196506,tag.152196543,tag.152196505",
+          "ids": ["tag.152196506", "tag.152196543", "tag.152196505"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "bad guy",
+      "playbackSeconds": 194,
+      "previewURL": "https://listen.hs.llnwd.net/g3/3/6/7/2/7/1496172763.mp3",
+      "shortcut": "billie-eilish/when-we-all-fall-asleep-where-do-we-go/bad-guy",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.309898159",
+      "albumName": "If I Know Me",
+      "artistId": "art.171338253",
+      "artistName": "Morgan Wallen",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.32621280",
+        "engineer": "art.29603864",
+        "primaryArtist": "art.171338253",
+        "producer": "art.29603864",
+        "remixer": "art.29603864"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.309898163",
+      "id": "tra.309898163",
+      "index": 4,
+      "isAvailableInHiRes": true,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "QZ22S1500059",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.309898159",
+          "ids": ["alb.309898159"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.171338253",
+          "ids": ["art.171338253"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.32621280",
+          "ids": ["art.32621280"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.407",
+          "ids": ["g.407"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196531",
+          "ids": ["tag.152196531"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 24,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Whiskey Glasses",
+      "playbackSeconds": 234,
+      "previewURL": "https://listen.hs.llnwd.net/g3/9/6/8/9/4/1689349869.mp3",
+      "shortcut": "morgan-wallen/if-i-know-me/whiskey-glasses",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.340035723",
+      "albumName": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "artistId": "art.177922095",
+      "artistName": "Post Malone",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.262183656",
+        "engineer": "art.26871529",
+        "featuredPerformer": "art.264182851",
+        "primaryArtist": "art.177922095",
+        "producer": "art.38927845",
+        "remixer": "art.26871529"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.340035725",
+      "id": "tra.340035725",
+      "index": 2,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "USUM71814888",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.340035723",
+          "ids": ["alb.340035723"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.177922095",
+          "ids": ["art.177922095"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.262183656",
+          "ids": ["art.262183656"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.197",
+          "ids": ["g.197"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196589",
+          "ids": ["tag.152196589"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "playbackSeconds": 158,
+      "previewURL": "https://listen.hs.llnwd.net/g3/8/3/6/3/9/1467093638.mp3",
+      "shortcut": "various-artists/spider-man-into-the-spider-verse-soundtrack-from-and-inspi/sunflower-spider-man-into-the-spider-verse",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.364229179",
+      "albumName": "God's Country",
+      "artistId": "art.37872",
+      "artistName": "Blake Shelton",
+      "blurbs": [],
+      "contributors": {
+        "collaborator": "art.12144294",
+        "composer": "art.125079424",
+        "engineer": "art.24504776",
+        "guestMusician": "art.6596971",
+        "guestVocals": "art.37872",
+        "primaryArtist": "art.37872",
+        "producer": "art.24504776",
+        "remixer": "art.28188827"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.364229180",
+      "id": "tra.364229180",
+      "index": 1,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "USWB11900819",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.364229179",
+          "ids": ["alb.364229179"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.37872",
+          "ids": ["art.37872"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.125079424",
+          "ids": ["art.125079424"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.336,g.161,g.407,g.120",
+          "ids": ["g.336", "g.161", "g.407", "g.120"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196534,tag.152196531",
+          "ids": ["tag.152196534", "tag.152196531"]
+        }
+      },
+      "losslessFormats": [],
+      "name": "God's Country",
+      "playbackSeconds": 205,
+      "previewURL": "https://listen.hs.llnwd.net/g3/1/3/1/2/5/1565452131.mp3",
+      "shortcut": "blake-shelton/gods-country-364229179/gods-country",
+      "type": "track"
+    },
+    {
+      "albumId": "alb.263136894",
+      "albumName": "This One's for You",
+      "artistId": "art.137815008",
+      "artistName": "Luke Combs",
+      "blurbs": [],
+      "contributors": {
+        "composer": "art.137815008",
+        "featuredPerformer": "art.137815008",
+        "guestMusician": "art.10115316",
+        "guestVocals": "art.137815008",
+        "primaryArtist": "art.137815008",
+        "producer": "art.263136896"
+      },
+      "disc": 1,
+      "formats": [
+        {
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        },
+        {
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "href": "https://api.napster.com/v2.2/tracks/tra.263136913",
+      "id": "tra.263136913",
+      "index": 5,
+      "isAvailableInHiRes": false,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isrc": "TCACJ1540988",
+      "links": {
+        "albums": {
+          "href": "https://api.napster.com/v2.2/albums/alb.263136894",
+          "ids": ["alb.263136894"]
+        },
+        "artists": {
+          "href": "https://api.napster.com/v2.2/artists/art.137815008",
+          "ids": ["art.137815008"]
+        },
+        "composers": {
+          "href": "https://api.napster.com/v2.2/artists/art.137815008",
+          "ids": ["art.137815008"]
+        },
+        "genres": {
+          "href": "https://api.napster.com/v2.2/genres/g.407,g.131",
+          "ids": ["g.407", "g.131"]
+        },
+        "tags": {
+          "href": "https://api.napster.com/v2.2/tags/tag.152196531,tag.152196535",
+          "ids": ["tag.152196531", "tag.152196535"]
+        }
+      },
+      "losslessFormats": [
+        {
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100,
+          "type": "format"
+        }
+      ],
+      "name": "Hurricane",
+      "playbackSeconds": 222,
+      "previewURL": "https://listen.hs.llnwd.net/g3/3/7/9/7/6/1339967973.mp3",
+      "shortcut": "luke-combs/this-ones-for-you/hurricane",
+      "type": "track"
+    }
+  ]
+}
